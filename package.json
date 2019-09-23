@@ -1,6 +1,6 @@
 {
   "name": "@breautek/eslint-plugin",
-  "version": "2.0.0",
+  "version": "3.0.0-beta.0",
   "description": "common eslint configuration for @breautek packages",
   "main": "dist/index.js",
   "scripts": {
@@ -24,15 +24,15 @@
     "README.md"
   ],
   "author": "norman.breau@totalpave.com",
-  "license": "UNLICENSED",
+  "license": "MIT",
   "homepage": "https://github.com/breautek/eslint-plugin.git#readme",
   "peerDependencies": {
-    "eslint": ">=6.0.1 && <7.0.0"
+    "eslint": ">=6.4.0 && <7.0.0"
   },
   "devDependencies": {
-    "typescript": "^3.5.3"
+    "typescript": "^3.6.3"
   },
   "optionalDependencies": {
-    "@typescript-eslint/eslint-plugin": "^1.13.0"
+    "@typescript-eslint/eslint-plugin": "^2.3.0"
   }
 }
