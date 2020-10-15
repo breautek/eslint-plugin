@@ -1,6 +1,6 @@
 {
   "name": "@breautek/eslint-plugin",
-  "version": "4.0.0-dev",
+  "version": "4.0.0",
   "description": "common eslint configuration for @breautek packages",
   "main": "dist/index.js",
   "scripts": {
